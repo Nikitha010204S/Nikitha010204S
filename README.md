@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikitha
 - 👀 I’m interested in Android App Development and Front end development
-- 🌱 I’m currently pursuing my pre-final year in Computer Science and Engineering department at K S Rangasamy college of Technology
+- 🌱 I’m currently pursuing my final year in Computer Science and Engineering department at K S Rangasamy college of Technology
 - 📫 Linkedin id - https://www.linkedin.com/in/nikitha-senthil-7a73a6225/
 
 <!---
